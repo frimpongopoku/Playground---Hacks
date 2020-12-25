@@ -110,7 +110,7 @@ class InternetExplorer{
 
 // --- Creating network calls ------
 
-let API_URL = "https://seanallen-course-backend.herokuapp.com/swiftui-fundamentalshhghgh/appetizers";
+let API_URL = "https://seanallen-course-backend.herokuapp.com/swiftui-fundamentals/appetizers";
 let url  = URL( string: API_URL)
 
 func callNetworkFxn(link: URL) -> Void {
